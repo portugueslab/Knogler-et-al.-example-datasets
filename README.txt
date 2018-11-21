@@ -1,4 +1,4 @@
-%%Electrophysiology datasets (4 files)%%
+# Electrophysiology datasets (4 files) #
 
 1. ephys_parameters.mat
   contains:
@@ -24,6 +24,6 @@
   - same structure as for #2
 
 
-%%Functional imaging datasets%%
+# Functional imaging datasets #
 
 To come.
